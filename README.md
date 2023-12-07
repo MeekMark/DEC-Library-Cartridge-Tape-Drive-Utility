@@ -19,3 +19,4 @@ The following features are fairly accurate!
   *  the tape slots and information on the tapes in each slot
   *  Shows how many tapes have been accessed since the last time the cleaner tape was run
 * Will compress data on cartridges that support compression
+* Scripts handle most common errors automatically by skipping/rewinding
