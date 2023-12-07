@@ -1,7 +1,7 @@
 # DEC-Library-Cartridge-Tape-Drive-Utility
 Linux shell and perl scripts to read and write IBM tape cartridges on DEC TKZ61/62 Tape Drive Libraries
 
-Linux Korn Shell and Perl scripts to read and write IBM 3480, 3480, 3490E tapes.  Designed to access tapes on DEC TKZ61/62 Tape Drive Libraries (or clones), for 10 slot libraries.
+Linux Korn Shell and Perl scripts to read and write IBM 3480, 3480, 3490E tapes.  Designed to access tapes on DEC TKZ61/62 Tape Drive Libraries (or clones/compatibles like [Overland L490](https://www.google.com/search?q=Overland+L490+Tape+drive+library)), for 10 slot libraries.
 
 This was written in 2008 for a Unix server, before I was familiar with Linux and BASH, so much of this could be more elegant.  
 
