@@ -10,7 +10,7 @@ The following features are fairly accurate!
 # Features
 
 * Can read and write EBDCIC or ASCII data
-* Handles VOLSER tape labels
+* Handles reading and writing [VOLSER tape](https://www.ibm.com/docs/en/zos/2.1.0?topic=format-standard-data-set-label-1-hdr1eov1eof1) labels
 * Allows running tape cleaner cartridge in slot 11
 * Keeps history of tapes processed
 * For input files being written, for large files that won't fit on a certain tape cartridge, it will automatically create up to 10 tapes with appropriate VOLSER labels.
